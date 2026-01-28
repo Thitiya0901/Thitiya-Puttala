@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>ประพิณพร สสร้อยสุวรรณ(กลอยใจ)</title>
+<title> ฐิติยา พุทธลา (พรีม)</title>
 </head>
 
 <body>
-<h1>ประพิณพร สสร้อยสุวรรณ(กลอยใจ)</h1>
+<h1>ฐิติยา พุทธลา (พรีม)</h1>
 
 <script language="javascript">
 	document.write("คณะการบัญชีและการจัดการ");
@@ -19,9 +19,9 @@
 	echo "Mahasarakham University <br>";
 	print "Prapinporn Soisuwan <br>";
 	
-	$name = "ประพิณพร สร้อยสุวรรณ";
+	$name = "ฐิติยา พุทธลา ";
 	$age = 21.5;
-	$Name ="กลอยใจ รักแฟน";
+	$Name ="พรีม 09";
 	
 	//echo gettype($age) ;
 	var_dump($age);

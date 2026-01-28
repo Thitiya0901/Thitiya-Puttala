@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>ประพิณพร สร้อยสุวรรณ(กลอยใจ)</title>
+<title>ฐิติยา พุทธลา (พรีม)</title>
 </head>
 
 <boby>
-<h1>ประพิณพร สร้อยสุวรรณ(กลอยใจ)</h1>
+<h1>ฐิติยา พุทธลา (พรีม)</h1>
 
 <form method="post" action="">
 	รหัสนิสิต<input type="number" name="a"autofocus required>

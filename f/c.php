@@ -2,11 +2,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>ประพิณพร สสร้อยสุวรรณ(กลอยใจ)</title>
+<title>ฐิติยา พุทธลา (พรีม)</title>
 </head>
 
 <body>
-<h1>ประพิณพร สสร้อยสุวรรณ(กลอยใจ)</h1>
+<h1>ฐิติยา พุทธลา (พรีม)</h1>
 
 <form method="post" action="">
 	กรอกคะแนน<input type="number" min="0" max= "100" name="a"autofocus required>
