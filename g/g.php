@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>สุภัสสร ปาปะโน (แพท)</title>
+    <title>ฐิติยา พุทธลา (พรีม)</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         body { font-family: 'Sarabun', sans-serif; background-color: #f4f7f6; margin: 0; padding: 20px; }
@@ -48,7 +48,7 @@
 
 <body>
     <div class="container">
-        <h1>สุภัสสร ปาปะโน (แพท)</h1>
+        <h1>ฐิติยา พุทธลา (พรีม)</h1>
 
         <div class="dashboard-row">
             <?php
