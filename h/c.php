@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<h1>ฐิติยา พุทธลา (พรีม)</h1>
+<h1>c.php</h1>
 
 <?php
     echo $_SESSION['name'] ."<br>";
