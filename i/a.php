@@ -37,7 +37,7 @@ while ($data = mysqli_fetch_array($rs)){
 	<tr>
     	<td><?php echo $date['r_id'] ; ?></td>
         <td><?php echo $date['r_name'] ; ?></td>
-        <td width="80" align="center"><img src="../../images/delete.ipg" width="20"></tr>
+        <td width="80" align="center"><a href="delete_regions.php?id=<?php echo $date['r_id'] ; ?>" onClick="return confirm('ยืนยันการลบ?');"<img src="images/delete.ipg" width="20"></a></td>
     </tr>
 <?php } ?>
 </table>
