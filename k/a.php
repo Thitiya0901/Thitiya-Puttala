@@ -5,12 +5,12 @@
 </head>
 <body>
 <h1> งาน k ฐิติยา พุทธลา (พรีม) <br>66010914026 </h1>
-<button onclick="showImage('1.jpg', this)" 
+<button onclick="showImage('2.jpg', this)" 
         style="background-color:green; color:white; padding:10px; border:none;">
     เปิดรูปที่ 1
 </button>
 
-<button onclick="showImage('2.jpg', this)" 
+<button onclick="showImage('1.jpg', this)" 
         style="background-color:orange; color:white; padding:10px; border:none;">
     เปิดรูปที่ 2
 </button>
