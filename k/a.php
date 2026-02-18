@@ -1,16 +1,10 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
-<title>ฐิติยา พุทธลา (พรีม)</title>
+<title>ฐิติยา พุทธลา (พรีม) </title>
 </head>
-
 <body>
-
-
-<h1>งาน k 66010914026 ฐิติยา พุทธลา (พรีม)</h1>
-<br>
-<img src="images/1.jpg" width="400">
+<h1> งาน k ฐิติยา พุทธลา (พรีม) <br>66010914026 </h1>
 <button onclick="showImage('1.jpg', this)" 
         style="background-color:green; color:white; padding:10px; border:none;">
     เปิดรูปที่ 1
