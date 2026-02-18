@@ -6,10 +6,12 @@
 </head>
 
 <body>
+
+
+<h1>งาน j 66010914026 ฐิติยา พุทธลา (พรีม)</h1>
 <br>
-<h1>66010914026 ฐิติยา พุทธลา (พรีม)</h1>
-<br>
-<img src="images/1.jpg"width="400">
+<img src="images/1.jpg" width="400">
+
 
 
 </body>
